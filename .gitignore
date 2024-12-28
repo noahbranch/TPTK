@@ -1,0 +1,21 @@
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore IDE configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore temporary files
+*.log
