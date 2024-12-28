@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\tptk\\TotalPartyToolKit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|c:\\code\\tptk\\totalpartytoolkit\\totalpartytoolkit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|solutionrelative:totalpartytoolkit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|c:\\code\\tptk\\totalpartytoolkit\\totalpartytoolkit\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|solutionrelative:totalpartytoolkit\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|c:\\code\\tptk\\totalpartytoolkit\\totalpartytoolkit\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|solutionrelative:totalpartytoolkit\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|c:\\code\\tptk\\totalpartytoolkit\\totalpartytoolkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|solutionrelative:totalpartytoolkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|c:\\code\\tptk\\totalpartytoolkit\\totalpartytoolkit\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|solutionrelative:totalpartytoolkit\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|c:\\code\\tptk\\totalpartytoolkit\\totalpartytoolkit\\tptkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4EE5E4-C2BA-459E-8C67-75ED605A5759}|TotalPartyToolKit\\TotalPartyToolKit.csproj|solutionrelative:totalpartytoolkit\\tptkdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\appsettings.json",
+              "RelativeDocumentMoniker": "TotalPartyToolKit\\appsettings.json",
+              "ToolTip": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\appsettings.json",
+              "RelativeToolTip": "TotalPartyToolKit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-28T18:46:35.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "TotalPartyToolKit\\PasswordHasher.cs",
+              "ToolTip": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\PasswordHasher.cs",
+              "RelativeToolTip": "TotalPartyToolKit\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:57:53.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TotalPartyToolKit\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TotalPartyToolKit\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:44:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TotalPartyToolKit\\WeatherForecast.cs",
+              "ToolTip": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\WeatherForecast.cs",
+              "RelativeToolTip": "TotalPartyToolKit\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:44:09.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TPTKDbContext.cs",
+              "DocumentMoniker": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\TPTKDbContext.cs",
+              "RelativeDocumentMoniker": "TotalPartyToolKit\\TPTKDbContext.cs",
+              "ToolTip": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\TPTKDbContext.cs",
+              "RelativeToolTip": "TotalPartyToolKit\\TPTKDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:42:49.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\Program.cs",
+              "RelativeDocumentMoniker": "TotalPartyToolKit\\Program.cs",
+              "ToolTip": "C:\\code\\tptk\\TotalPartyToolKit\\TotalPartyToolKit\\Program.cs",
+              "RelativeToolTip": "TotalPartyToolKit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:42:00.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
